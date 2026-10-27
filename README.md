@@ -307,4 +307,4 @@ All nine data mining tasks — cleaning, reduction, transformation, association 
 - Orange Data Mining: <https://orangedatamining.com/>
 - Orange Widget Catalog: <https://orangedatamining.com/widget-catalog/>
 - Orange Associate add-on: <https://orange3-associate.readthedocs.io/>
-- Han, J., Kamber, M., Pei, J., *Data Mining: Concepts and Techniques*.
+
